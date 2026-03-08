@@ -6,8 +6,8 @@
   "compatibility_flags": ["nodejs_compat_v2"],
   
   [[kv_namespaces]]
-  binding = "MY_KV"
-  id = "CHAT_KV"  // ← ADD YOUR KV ID
+  binding = "CHAT_KV"
+  id = "fbff51cbe66c4829bb6a0a31b1e50e67"  // ← ADD YOUR KV ID
   
   [vars]
   LLAMA_URL = "good-agent-vlt.vijjubox9969.workers.dev"  // ← YOUR LLAMA URL
