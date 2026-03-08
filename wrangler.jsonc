@@ -7,10 +7,10 @@
   
   [[kv_namespaces]]
   binding = "MY_KV"
-  id = "your-kv-namespace-id-here"  // ← ADD YOUR KV ID
+  id = "CHAT_KV"  // ← ADD YOUR KV ID
   
   [vars]
-  LLAMA_URL = "https://your-llama-worker.youraccount.workers.dev/v1"  // ← YOUR LLAMA URL
+  LLAMA_URL = "good-agent-vlt.vijjubox9969.workers.dev"  // ← YOUR LLAMA URL
   
   [sandbox]
   enabled = true
